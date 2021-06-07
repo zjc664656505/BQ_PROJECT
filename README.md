@@ -14,6 +14,7 @@ File Description:
 2. Report_Data_Management.ipynb: Notebook contains the code for preprocessing, and managing the raw data for the project.
 3. Data_3000.csv: The processed data for modelling which has the sample size of 3000.
 4. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states.
+5. Revenue_Ebitda_Income_feature+model+eval.ipynb: Notebook that contains the code of importing the sample processed dataset to do feature selections, model training, and evaluations.
 
 Contributors - University of California, Irvine: 
 1. Junchen Zhao (junchez3@uci.edu).
