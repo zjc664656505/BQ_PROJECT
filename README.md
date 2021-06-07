@@ -12,7 +12,7 @@ Setup:
 File Description:
 1. BQ_LinearRegression.ipynb: Notebook contains the code for training the simple time-series model using linear regression.
 2. Report_Data_Management.ipynb: Notebook contains the code for preprocessing, and managing the raw data for the project.
-3. Data_3000.csv: The processed data for modelling which has the sample size of 3000
+3. Data_3000.csv: The processed data for modelling which has the sample size of 3000.
 
 Contributors - University of California, Irvine: 
 1. Junchen Zhao (junchez3@uci.edu).
