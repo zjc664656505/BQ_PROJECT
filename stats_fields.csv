@@ -1,0 +1,133 @@
+,Table name,Field description,Field name,Data frequency,Data type,Category,Level of aggregation of statistic,Statistic if aggregated,Public companies only
+2,statistics_by_us_ts,Asset Turnover U.S. Public Companies Average,bq_asset_turnover_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+3,statistics_by_us_ts,Asset Turnover U.S. Public Companies Median,bq_asset_turnover_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+4,statistics_by_us_ts,Asset Turnover U.S. Public Companies Total,bq_asset_turnover_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+5,statistics_by_us_ts,Cost of Revenue (COR) Per Employee U.S. Public Companies Average,bq_cor_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+6,statistics_by_us_ts,Cost of Revenue (COR) Per Employee U.S. Public Companies Median,bq_cor_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+7,statistics_by_us_ts,Cost of Revenue (COR) Per Employee U.S. Public Companies Total,bq_cor_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+8,statistics_by_us_ts,Cost of Revenue (COR) U.S. Public Companies Average,bq_cor_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+9,statistics_by_us_ts,Cost of Revenue (COR) U.S. Public Companies Median,bq_cor_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+10,statistics_by_us_ts,Cost of Revenue (COR) U.S. Public Companies Total,bq_cor_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+11,statistics_by_us_ts,EBITDA Margin U.S. Public Companies Average,bq_ebitda_margin_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+12,statistics_by_us_ts,EBITDA Margin U.S. Public Companies Median,bq_ebitda_margin_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+13,statistics_by_us_ts,EBITDA Margin U.S. Public Companies Total,bq_ebitda_margin_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+14,statistics_by_us_ts,EBITDA Per Employee U.S. Public Companies Average,bq_ebitda_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+15,statistics_by_us_ts,EBITDA Per Employee U.S. Public Companies Median,bq_ebitda_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+16,statistics_by_us_ts,EBITDA Per Employee U.S. Public Companies Total,bq_ebitda_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+17,statistics_by_us_ts,EBITDA U.S. Public Companies Average,bq_ebitda_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+18,statistics_by_us_ts,EBITDA U.S. Public Companies Median,bq_ebitda_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+19,statistics_by_us_ts,EBITDA U.S. Public Companies Total,bq_ebitda_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+20,statistics_by_us_ts,Current Employees Plan U.S. Public Companies Average,bq_current_employees_plan_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+21,statistics_by_us_ts,Current Employees Plan U.S. Public Companies Median,bq_current_employees_plan_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+22,statistics_by_us_ts,Current Employees Plan U.S. Public Companies Total,bq_current_employees_plan_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+23,statistics_by_us_ts,Employee Growth Rate 1yr U.S. Public Companies Average,bq_emp_growth_rate_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+24,statistics_by_us_ts,Employee Growth Rate 1yr U.S. Public Companies Median,bq_emp_growth_rate_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+25,statistics_by_us_ts,Employee Growth Rate 1yr U.S. Public Companies Total,bq_emp_growth_rate_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+26,statistics_by_us_ts,Gross Profit Margin U.S. Public Companies Average,bq_gross_profit_margin_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+27,statistics_by_us_ts,Gross Profit Margin U.S. Public Companies Median,bq_gross_profit_margin_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+28,statistics_by_us_ts,Gross Profit Margin U.S. Public Companies Total,bq_gross_profit_margin_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+29,statistics_by_us_ts,Gross Profit Per Employee U.S. Public Companies Average,bq_gross_profit_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+30,statistics_by_us_ts,Gross Profit Per Employee U.S. Public Companies Median,bq_gross_profit_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+31,statistics_by_us_ts,Gross Profit Per Employee U.S. Public Companies Total,bq_gross_profit_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+32,statistics_by_us_ts,Gross Profit U.S. Public Companies Average,bq_gross_profit_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+33,statistics_by_us_ts,Gross Profit U.S. Public Companies Median,bq_gross_profit_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+34,statistics_by_us_ts,Gross Profit U.S. Public Companies Total,bq_gross_profit_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+35,statistics_by_us_ts,Growth Cost of Revenue (COR) 1yr U.S. Public Companies Average,bq_growth_cor_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+36,statistics_by_us_ts,Growth Cost of Revenue (COR) 1yr U.S. Public Companies Median,bq_growth_cor_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+37,statistics_by_us_ts,Growth Cost of Revenue (COR) 1yr U.S. Public Companies Total,bq_growth_cor_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+38,statistics_by_us_ts,Growth Cost of Revenue (COR) Per Employee 1yr U.S. Public Companies Average,bq_growth_cor_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+39,statistics_by_us_ts,Growth Cost of Revenue (COR) Per Employee 1yr U.S. Public Companies Median,bq_growth_cor_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+40,statistics_by_us_ts,Growth Cost of Revenue (COR) Per Employee 1yr U.S. Public Companies Total,bq_growth_cor_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+41,statistics_by_us_ts,Growth EBITDA 1yr U.S. Public Companies Average,bq_growth_ebitda_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+42,statistics_by_us_ts,Growth EBITDA 1yr U.S. Public Companies Median,bq_growth_ebitda_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+43,statistics_by_us_ts,Growth EBITDA 1yr U.S. Public Companies Total,bq_growth_ebitda_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+44,statistics_by_us_ts,Growth EBITDA Per Employee 1yr U.S. Public Companies Average,bq_growth_ebitda_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+45,statistics_by_us_ts,Growth EBITDA Per Employee 1yr U.S. Public Companies Median,bq_growth_ebitda_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+46,statistics_by_us_ts,Growth EBITDA Per Employee 1yr U.S. Public Companies Total,bq_growth_ebitda_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+47,statistics_by_us_ts,Growth Gross Profit 1yr U.S. Public Companies Average,bq_growth_gross_profit_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+48,statistics_by_us_ts,Growth Gross Profit 1yr U.S. Public Companies Median,bq_growth_gross_profit_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+49,statistics_by_us_ts,Growth Gross Profit 1yr U.S. Public Companies Total,bq_growth_gross_profit_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+50,statistics_by_us_ts,Growth Gross Profit Per Employee 1yr U.S. Public Companies Average,bq_growth_gross_profit_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+51,statistics_by_us_ts,Growth Gross Profit Per Employee 1yr U.S. Public Companies Median,bq_growth_gross_profit_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+52,statistics_by_us_ts,Growth Gross Profit Per Employee 1yr U.S. Public Companies Total,bq_growth_gross_profit_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+53,statistics_by_us_ts,Growth Net Income 1yr U.S. Public Companies Average,bq_growth_net_income_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+54,statistics_by_us_ts,Growth Net Income 1yr U.S. Public Companies Median,bq_growth_net_income_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+55,statistics_by_us_ts,Growth Net Income 1yr U.S. Public Companies Total,bq_growth_net_income_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+56,statistics_by_us_ts,Growth Net Income Per Employee 1yr U.S. Public Companies Average,bq_growth_net_income_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+57,statistics_by_us_ts,Growth Net Income Per Employee 1yr U.S. Public Companies Median,bq_growth_net_income_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+58,statistics_by_us_ts,Growth Net Income Per Employee 1yr U.S. Public Companies Total,bq_growth_net_income_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+59,statistics_by_us_ts,Growth Operating Expenses 1yr U.S. Public Companies Average,bq_growth_operating_expenses_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+60,statistics_by_us_ts,Growth Operating Expenses 1yr U.S. Public Companies Median,bq_growth_operating_expenses_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+61,statistics_by_us_ts,Growth Operating Expenses 1yr U.S. Public Companies Total,bq_growth_operating_expenses_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+62,statistics_by_us_ts,Growth Operating Expenses Per Employee 1yr U.S. Public Companies Average,bq_growth_operating_expenses_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+63,statistics_by_us_ts,Growth Operating Expenses Per Employee 1yr U.S. Public Companies Median,bq_growth_operating_expenses_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+64,statistics_by_us_ts,Growth Operating Expenses Per Employee 1yr U.S. Public Companies Total,bq_growth_operating_expenses_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+65,statistics_by_us_ts,Growth Operating Income 1yr U.S. Public Companies Average,bq_growth_operating_income_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+66,statistics_by_us_ts,Growth Operating Income 1yr U.S. Public Companies Median,bq_growth_operating_income_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+67,statistics_by_us_ts,Growth Operating Income 1yr U.S. Public Companies Total,bq_growth_operating_income_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+68,statistics_by_us_ts,Growth Operating Income Per Employee 1yr U.S. Public Companies Average,bq_growth_operating_income_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+69,statistics_by_us_ts,Growth Operating Income Per Employee 1yr U.S. Public Companies Median,bq_growth_operating_income_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+70,statistics_by_us_ts,Growth Operating Income Per Employee 1yr U.S. Public Companies Total,bq_growth_operating_income_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+71,statistics_by_us_ts,Growth Revenue 1yr U.S. Public Companies Average,bq_growth_revenue_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+72,statistics_by_us_ts,Growth Revenue 1yr U.S. Public Companies Median,bq_growth_revenue_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+73,statistics_by_us_ts,Growth Revenue 1yr U.S. Public Companies Total,bq_growth_revenue_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+74,statistics_by_us_ts,Growth Revenue Per Employee 1yr U.S. Public Companies Average,bq_growth_revenue_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+75,statistics_by_us_ts,Growth Revenue Per Employee 1yr U.S. Public Companies Median,bq_growth_revenue_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+76,statistics_by_us_ts,Growth Revenue Per Employee 1yr U.S. Public Companies Total,bq_growth_revenue_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+77,statistics_by_us_ts,Growth Tax And Interest 1yr U.S. Public Companies Average,bq_growth_tax_and_interest_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+78,statistics_by_us_ts,Growth Tax And Interest 1yr U.S. Public Companies Median,bq_growth_tax_and_interest_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+79,statistics_by_us_ts,Growth Tax And Interest 1yr U.S. Public Companies Total,bq_growth_tax_and_interest_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+80,statistics_by_us_ts,Growth Tax And Interest Per Employee 1yr U.S. Public Companies Average,bq_growth_tax_and_interest_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+81,statistics_by_us_ts,Growth Tax And Interest Per Employee 1yr U.S. Public Companies Median,bq_growth_tax_and_interest_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+82,statistics_by_us_ts,Growth Tax And Interest Per Employee 1yr U.S. Public Companies Total,bq_growth_tax_and_interest_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+83,statistics_by_us_ts,Growth Total Assets 1yr U.S. Public Companies Average,bq_growth_total_assets_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+84,statistics_by_us_ts,Growth Total Assets 1yr U.S. Public Companies Median,bq_growth_total_assets_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+85,statistics_by_us_ts,Growth Total Assets 1yr U.S. Public Companies Total,bq_growth_total_assets_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+86,statistics_by_us_ts,Growth Total Assets Per Employee 1yr U.S. Public Companies Average,bq_growth_total_assets_per_emp_1yr_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+87,statistics_by_us_ts,Growth Total Assets Per Employee 1yr U.S. Public Companies Median,bq_growth_total_assets_per_emp_1yr_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+88,statistics_by_us_ts,Growth Total Assets Per Employee 1yr U.S. Public Companies Total,bq_growth_total_assets_per_emp_1yr_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+89,statistics_by_us_ts,Net Income Per Employee U.S. Public Companies Average,bq_net_income_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+90,statistics_by_us_ts,Net Income Per Employee U.S. Public Companies Median,bq_net_income_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+91,statistics_by_us_ts,Net Income Per Employee U.S. Public Companies Total,bq_net_income_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+92,statistics_by_us_ts,Net Income U.S. Public Companies Average,bq_net_income_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+93,statistics_by_us_ts,Net Income U.S. Public Companies Median,bq_net_income_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+94,statistics_by_us_ts,Net Income U.S. Public Companies Total,bq_net_income_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+95,statistics_by_us_ts,Net Profit Margin U.S. Public Companies Average,bq_net_profit_margin_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+96,statistics_by_us_ts,Net Profit Margin U.S. Public Companies Median,bq_net_profit_margin_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+97,statistics_by_us_ts,Net Profit Margin U.S. Public Companies Total,bq_net_profit_margin_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+98,statistics_by_us_ts,Operating Expenses Per Employee U.S. Public Companies Average,bq_operating_expenses_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+99,statistics_by_us_ts,Operating Expenses Per Employee U.S. Public Companies Median,bq_operating_expenses_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+100,statistics_by_us_ts,Operating Expenses Per Employee U.S. Public Companies Total,bq_operating_expenses_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+101,statistics_by_us_ts,Operating Expenses U.S. Public Companies Average,bq_operating_expenses_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+102,statistics_by_us_ts,Operating Expenses U.S. Public Companies Median,bq_operating_expenses_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+103,statistics_by_us_ts,Operating Expenses U.S. Public Companies Total,bq_operating_expenses_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+104,statistics_by_us_ts,Operating Income Per Employee U.S. Public Companies Average,bq_operating_income_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+105,statistics_by_us_ts,Operating Income Per Employee U.S. Public Companies Median,bq_operating_income_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+106,statistics_by_us_ts,Operating Income Per Employee U.S. Public Companies Total,bq_operating_income_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+107,statistics_by_us_ts,Operating Income U.S. Public Companies Average,bq_operating_income_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+108,statistics_by_us_ts,Operating Income U.S. Public Companies Median,bq_operating_income_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+109,statistics_by_us_ts,Operating Income U.S. Public Companies Total,bq_operating_income_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+110,statistics_by_us_ts,Return On Assets U.S. Public Companies Average,bq_return_on_assets_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+111,statistics_by_us_ts,Return On Assets U.S. Public Companies Median,bq_return_on_assets_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+112,statistics_by_us_ts,Return On Assets U.S. Public Companies Total,bq_return_on_assets_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+113,statistics_by_us_ts,Return On Sales U.S. Public Companies Average,bq_return_on_sales_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+114,statistics_by_us_ts,Return On Sales U.S. Public Companies Median,bq_return_on_sales_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+115,statistics_by_us_ts,Return On Sales U.S. Public Companies Total,bq_return_on_sales_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+116,statistics_by_us_ts,Revenue Per Employee U.S. Public Companies Average,bq_revenue_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+117,statistics_by_us_ts,Revenue Per Employee U.S. Public Companies Median,bq_revenue_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+118,statistics_by_us_ts,Revenue Per Employee U.S. Public Companies Total,bq_revenue_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+119,statistics_by_us_ts,Revenue U.S. Public Companies Average,bq_revenue_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+120,statistics_by_us_ts,Revenue U.S. Public Companies Median,bq_revenue_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+121,statistics_by_us_ts,Revenue U.S. Public Companies Total,bq_revenue_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+122,statistics_by_us_ts,Tax And Interest Per Employee U.S. Public Companies Average,bq_tax_and_interest_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+123,statistics_by_us_ts,Tax And Interest Per Employee U.S. Public Companies Median,bq_tax_and_interest_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+124,statistics_by_us_ts,Tax And Interest Per Employee U.S. Public Companies Total,bq_tax_and_interest_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+125,statistics_by_us_ts,Tax And Interest U.S. Public Companies Average,bq_tax_and_interest_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+126,statistics_by_us_ts,Tax And Interest U.S. Public Companies Median,bq_tax_and_interest_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+127,statistics_by_us_ts,Tax And Interest U.S. Public Companies Total,bq_tax_and_interest_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+128,statistics_by_us_ts,Total Assets Per Employee U.S. Public Companies Average,bq_total_assets_per_emp_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+129,statistics_by_us_ts,Total Assets Per Employee U.S. Public Companies Median,bq_total_assets_per_emp_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+130,statistics_by_us_ts,Total Assets Per Employee U.S. Public Companies Total,bq_total_assets_per_emp_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
+131,statistics_by_us_ts,Total Assets U.S. Public Companies Average,bq_total_assets_us_pub_avg,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Average,TRUE
+132,statistics_by_us_ts,Total Assets U.S. Public Companies Median,bq_total_assets_us_pub_med,Annual Time Series (TS),Float,"Macro, industry & regional metrics",U.S.,Median,TRUE
+133,statistics_by_us_ts,Total Assets U.S. Public Companies Total,bq_total_assets_us_pub_tot,Annual Time Series (TS),Integer,"Macro, industry & regional metrics",U.S.,Total,TRUE
