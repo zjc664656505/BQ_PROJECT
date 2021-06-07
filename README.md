@@ -1,4 +1,4 @@
-# BQ_PROJECT
+# BQ_PROJECT - UC Irvine Data Science Major Capstion Project (Partner Company - BrightQuery Inc.)
 Setup:
 1. In this project, we did the public financial perforance prediction using Temporal-Fushion Transformer Model.
 2. Before you run the notebook code: please first go to this link: https://drive.google.com/drive/folders/1I6Z-60iJqEU9jkXmWRc6UT06kRcm2mkO?usp=sharing.
