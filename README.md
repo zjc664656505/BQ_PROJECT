@@ -8,13 +8,14 @@ Setup:
 6. It's important to run the colab notebook with the GPU, otherwise, the Temporal-Fusion Transformer cannot run.
 7. Also, it's important to run the notebook by signing in with your correct Google account, which links with the Google Drive folder that contains the data files.
 8. Once all setup showing above is done, you can run all the notebook files.
+9. If there is any problem with gaining access, please contact us so that we can help give you the allowance and gain the access for you (Company Approved).
 
 File Description:
 1. BQ_LinearRegression.ipynb: Notebook contains the code for training the simple time-series model using linear regression.
-2. Report_Data_Management.ipynb: Notebook contains the code for preprocessing, and managing the raw data for the project.
-3. Data_3000.csv: The processed data for modelling which has the sample size of 3000.
+2. Report_Data_Management.ipynb: Notebook contains the code for preprocessing, and managing the raw data for the project. (Better not run it)
+3. Data_3000.csv: The processed data for modelling in this report which has the sample size of 3000.
 4. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states.
-5. Revenue_Ebitda_Income_feature+model+eval.ipynb: Notebook that contains the code of importing the sample processed dataset to do feature selection, model training, and evaluations (mainly revenue, EBITDA, net income).
+5. Revenue_Ebitda_Income_feature+model+eval.ipynb: Notebook that contains the code of importing the sample processed dataset to do feature selection, model training, and evaluations, mainly for revenue, EBITDA, net income. (Important: The whole training could take >10 minutes, so we train offline and upload the model with the imported data) 
 
 Contributors - University of California, Irvine: 
 1. Junchen Zhao (junchez3@uci.edu).
