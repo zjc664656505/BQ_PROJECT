@@ -24,6 +24,7 @@ File Description:
 6. NetIncomeFeatures.csv: Saved csv for results of example feature selection for Net Income. 
 7. RevenueFeatures.csv: Saved csv for results of example feature selection for Revenue. 
 8. EbitdaFeatures.csv: Saved csv for results of example feature selection for Ebitda. 
+9. project HTMLs provide the html version of our notebooks' outputs, since there are too many cells for output so we divided them into several project htmls
 
 Contributors - University of California, Irvine: 
 1. Junchen Zhao (junchez3@uci.edu).
