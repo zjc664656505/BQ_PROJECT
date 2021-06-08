@@ -8,10 +8,12 @@ Setup:
 6. It's important to run the colab notebook with the GPU, otherwise, the Temporal-Fusion Transformer cannot run.
 7. Also, it's important to run the notebook by signing in with your correct Google account, which links with the Google Drive folder that contains the data files.
 8. Once all setup showing above is done, you can run all the notebook files.
-9. Since the Notebooks for data management and data visualization use the complete datasets, we suggest not running them but viewing the results, still code is runnable.
-10. The trainings could take >10 minutes, which makes us train them offline and upload the models with the sample data to illustrate them
-12. We provide the lines for local running with sample dataset by relative path in Notebooks for model training as demo using, so you can run these instead of running mount google drive and absolute path lines.
-14. Please contact us if there is difficulty in running the demos.
+
+Demo:
+1. Since the Notebooks for data management and data visualization use the complete datasets, we suggest not running them but viewing the results, still code is runnable.
+2. The trainings could take >10 minutes, which makes us train them offline and upload the models with the sample data to illustrate them
+3. We provide the lines for local running with sample dataset by relative path in Notebooks for model training as demo using, so you can run these instead of running those mount google drive and absolute path lines.
+4. Please contact us if there is difficulty in running the demos.
 
 File Description:
 1. Report_Data_Management.ipynb: Notebook contains the code for managing the data for the project with presentation of sample dataset for using at last. (Complete datasets are in Drive folder, so this is only for presenting our data management)
