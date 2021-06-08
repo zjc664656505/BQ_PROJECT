@@ -18,7 +18,10 @@ File Description:
 2. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states. (Visualizations are generated based on complete datasets in the Drive folder, so this is only for understanding the data)
 3. BQ_LinearRegression.ipynb: Notebook contains the code for linear regression model training (sample dataset importable).
 4. REI_feature+model+eval+visual.ipynb: Notebook that contains the code for TFT model training  (sample dataset importable). 
-5. Data_3000.csv: The sample ready-for-modelling data that has the size of 3000.
+5. Data_3000.csv: The csv of sample ready-for-modelling data that has the size of 3000.
+6. NetIncomeFeatures.csv: Saved csv for results of example feature selection for Net Income. 
+7. RevenueFeatures.csv: Saved csv for results of example feature selection for Revenue. 
+8. EbitdaFeatures.csv: Saved csv for results of example feature selection for Ebitda. 
 
 Contributors - University of California, Irvine: 
 1. Junchen Zhao (junchez3@uci.edu).
