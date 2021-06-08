@@ -8,15 +8,17 @@ Setup:
 6. It's important to run the colab notebook with the GPU, otherwise, the Temporal-Fusion Transformer cannot run.
 7. Also, it's important to run the notebook by signing in with your correct Google account, which links with the Google Drive folder that contains the data files.
 8. Once all setup showing above is done, you can run all the notebook files.
-9. We also provide the cells for local running with sample dataset by relative path, so feel free to run these to read data instead of mount google drive and run whole sets
-10. If you are not sure with the procedure or doubt the appropriateness, please contact us.
+9. Since the Notebooks for data management and data visualization use the complete datasets, we suggest not running them but viewing the results, still code is runnable.
+10. The trainings could take >10 minutes, which makes us train them offline and upload the models with the sample data to illustrate them
+12. We provide the lines for local running with sample dataset by relative path in Notebooks for model training as demo using, so you can run these instead of running mount google drive and absolute path lines.
+14. Please contact us if there is difficulty in running the demos.
 
 File Description:
-1. BQ_LinearRegression.ipynb: Notebook contains the code for checking assumptions, training models using linear regression.
-2. Report_Data_Management.ipynb: Notebook contains the code for preprocessing and managing the data for the project with presentation of sample dataset for using at last. (Only for presenting our data management, do not run it)
-3. Data_3000.csv: The data for modelling in this report which has the sample size of 3000.
-4. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states. (Because the visualizations are generated based on complete datasets instead of sample, only for presenting and understanding the data, so better not run it)
-5. REI_feature+model+eval+visual.ipynb: Notebook that contains the code to do feature selection, model training, evaluations, and visualizations, mainly for revenue, EBITDA, net income. (Important: The whole training could take >10 minutes, so we train offline and upload the model with the imported data, running results, and evaluations) 
+1. Report_Data_Management.ipynb: Notebook contains the code for managing the data for the project with presentation of sample dataset for using at last. (Complete datasets are in Drive folder, so this is only for presenting our data management)
+2. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states. (Visualizations are generated based on complete datasets in the Drive folder, so this is only for understanding the data)
+3. BQ_LinearRegression.ipynb: Notebook contains the code for linear regression model training (sample dataset importable).
+4. REI_feature+model+eval+visual.ipynb: Notebook that contains the code for TFT model training  (sample dataset importable). 
+5. Data_3000.csv: The sample ready-for-modelling data that has the size of 3000.
 
 Contributors - University of California, Irvine: 
 1. Junchen Zhao (junchez3@uci.edu).
