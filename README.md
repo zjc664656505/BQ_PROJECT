@@ -15,7 +15,7 @@ File Description:
 1. BQ_LinearRegression.ipynb: Notebook contains the code for checking assumptions, training models using linear regression.
 2. Report_Data_Management.ipynb: Notebook contains the code for preprocessing and managing the raw data for the project with presentation of sample dataset for using at last. (Only for presenting our data management, do not run it)
 3. Data_3000.csv: The data for modelling in this report which has the sample size of 3000.
-4. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states. (Because the visualizations are generated based on complete datasets instead of sample, only for presenting and understanding the data, so do not run it)
+4. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states. (Because the visualizations are generated based on complete datasets instead of sample, only for presenting and understanding the data, so better not run it)
 5. REI_feature+model+eval+visual.ipynb: Notebook that contains the code of importing the sample processed dataset to do feature selection, model training, evaluations, and visualizations, mainly for revenue, EBITDA, net income. (Important: The whole training could take >10 minutes, so we train offline and upload the model with the imported data, running results, and evaluations) 
 
 Contributors - University of California, Irvine: 
