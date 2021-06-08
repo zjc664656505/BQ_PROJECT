@@ -16,7 +16,7 @@ Demo:
 4. Please contact us if there is difficulty in running the demos.
 
 File Description:
-1. Report_Data_Management.ipynb: Notebook contains the code for managing the data for the project with presentation of sample dataset for using at last. (Complete datasets are in Drive folder, so this is only for presenting our data management)
+1. BQ_Data_Management.ipynb: Notebook contains the code for managing the data for the project with presentation of sample dataset for using at last. (Complete datasets are in Drive folder, so this is only for presenting our data management)
 2. BQ_DataVisualization.ipynb: Notebook includes the code for dataset visualization for important sectors, Pearson Correlations between financial variables, and the differences between and within different sectors and states. (Visualizations are generated based on complete datasets in the Drive folder, so this is only for understanding the data)
 3. BQ_LinearRegression.ipynb: Notebook contains the code for linear regression model training (sample dataset importable).
 4. BQ_TFT.ipynb: Notebook that contains the code for TFT model training  (sample dataset importable). 
