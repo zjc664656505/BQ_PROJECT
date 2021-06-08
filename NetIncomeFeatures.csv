@@ -1,0 +1,21 @@
+﻿Net Income Features,Category,Ridge,RFE,Mutual Info,RF,Total
+bq_prepaid_legal_ind,Welfare,TRUE,TRUE,TRUE,TRUE,4
+bq_severance_pay_ind,Welfare,TRUE,TRUE,TRUE,TRUE,4
+bq_stock_bonus_ind,Retirement,TRUE,TRUE,TRUE,TRUE,4
+bq_terminate_any_ind,Credit Risk,TRUE,TRUE,FALSE,TRUE,3
+bq_final_filing_any_ind,Credit Risk,FALSE,TRUE,TRUE,TRUE,3
+bq_fail_trans_contrib_pens_ind,Credit Risk,TRUE,TRUE,FALSE,TRUE,3
+bq_amended_ind,Credit Risk,FALSE,TRUE,TRUE,TRUE,3
+bq_final_filing_pens_ind,Credit Risk,TRUE,TRUE,FALSE,TRUE,3
+bq_fail_trans_contrib_any_ind,Credit Risk,TRUE,TRUE,FALSE,TRUE,3
+bq_vision_insurance_ind,Welfare,FALSE,TRUE,TRUE,TRUE,3
+bq_temp_disability_insurance_ind,Welfare,FALSE,TRUE,TRUE,TRUE,3
+bq_death_benefits_ind,Welfare,FALSE,TRUE,TRUE,TRUE,3
+bq_defined_benefit_pens_ind,Retirement,FALSE,TRUE,TRUE,TRUE,3
+bq_money_purchase_plan_ind,Retirement,TRUE,TRUE,FALSE,TRUE,3
+bq_fail_provide_benf_due_pens_ind,Credit Risk,FALSE,TRUE,TRUE,FALSE,2
+bq_no_co_contribs_ind,Credit Risk,FALSE,TRUE,TRUE,FALSE,2
+bq_terminate_pens_ind,Credit Risk,TRUE,TRUE,FALSE,FALSE,2
+bq_fail_provide_benf_due_any_ind,Credit Risk,FALSE,TRUE,TRUE,FALSE,2
+bq_supp_unemploy_ins_ind,Welfare,FALSE,TRUE,FALSE,TRUE,2
+bq_fail_provide_benf_due_welf_ind,Credit Risk,TRUE,FALSE,FALSE,FALSE,1
