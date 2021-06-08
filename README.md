@@ -1,14 +1,15 @@
 # BQ_PROJECT - UC Irvine Data Science Major Capstion Project (Partner Company - BrightQuery Inc.)
 Setup:
 1. In this project, we did the public financial perforance prediction using Temporal-Fushion Transformer Model.
-2. Before you run the notebook code: please first go to this link: https://drive.google.com/drive/folders/1I6Z-60iJqEU9jkXmWRc6UT06kRcm2mkO?usp=sharing.
+2. Before you run the notebook code: please first go to this link: https://drive.google.com/drive/folders/1I6Z-60iJqEU9jkXmWRc6UT06kRcm2mkO?usp=sharing (Company approved for sharing).
 3. The link showing above is our shared cloud Google Drive folder which contains our preprocessed data and relevant information of our project.
 4. After you opened this link and got into this folder, please add this folder as a short-cut to your Google Drive you usually use.
-5. Once, the folder is added to your Google MyDrive, then you can start run the notebook on colab.
+5. Once the folder is added to your Google MyDrive, then you can start run the notebook on colab.
 6. It's important to run the colab notebook with the GPU, otherwise, the Temporal-Fusion Transformer cannot run.
 7. Also, it's important to run the notebook by signing in with your correct Google account, which links with the Google Drive folder that contains the data files.
 8. Once all setup showing above is done, you can run all the notebook files.
-9. If there is any problem with gaining access, please contact us so that we can help give you the allowance and gain the access for you (Company Approved).
+9. The use of relative path is not valid here to read files from Google Drive, so only absolute path is doable here.
+10. If you are not sure with the procedure or doubt the appropriateness, please contact us so that we can help you.
 
 File Description:
 1. BQ_LinearRegression.ipynb: Notebook contains the code for training the simple time-series model using linear regression.
