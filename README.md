@@ -11,8 +11,8 @@ Setup:
 
 Demo:
 1. Since the Notebooks for data management and data visualization use the complete datasets, we suggest not running them but viewing the results, still code is runnable.
-2. We provide the lines for local running with sample dataset by relative path in Notebooks for model training as demo using, so you can run these instead of running those mount google drive and absolute path lines, mount google drive and absolute path lines have been commented.
-3. The trainings take >10 minutes, so we trained them offline and upload the models with the sample data to illustrate them
+2. We provide the lines for local running with sample dataset by relative path in Notebooks for model training as demo using, so you can run these instead of running those mount google drive and absolute path lines, and mount google drive and absolute path lines have been commented.
+3. The trainings (especially TFT) take >10 minutes, so we trained them offline and upload the models with the sample data to illustrate them
 4. Please contact us if there is difficulty in running the demos.
 
 File Description:
